@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, SQL and python<br>⚡ I am currently a student at the University of Technology Sydney
+🌱 I’m currently learning Java, SQL and python and AWS<br>⚡ I am currently a student at the University of Technology Sydney studying for a degree in Information Technology
 
 
 # 💻 Tech Stack:
