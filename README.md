@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifhaamz&label=Profile%20views&color=0e75b6&style=flat" alt="ifhaamz" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, MySQL and AWS**
+- 🌱 I’m currently learning **React, Spring, Advanced Java, .Net, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IfhaamZ](https://github.com/IfhaamZ)
 
